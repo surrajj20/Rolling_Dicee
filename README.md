@@ -23,5 +23,9 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
+## App Demo
+![App Demo](images/recording/dicee-demo.gif)
+
+
 ### Apk
 [click here to download](https://drive.google.com/file/d/18U-su8jRmNPsidW15Dm5D9JQas1ADkSv/view?usp=sharing)
